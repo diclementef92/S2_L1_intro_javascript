@@ -73,7 +73,3 @@ console.log(name1 === name2 ? "VERO" : "FALSO");
 
 console.log(name1.toLowerCase() + " è uguale a " + name2.toLowerCase() + " ? ");
 console.log(name1.toLowerCase() === name2.toLowerCase() ? "VERO" : "FALSO");
-
-let stringa;
-stringa = "l'apice doppio";
-console.log(stringa);
