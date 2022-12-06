@@ -10,7 +10,7 @@ REGOLE
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 
-I tipi di dato più usati sono::
+I tipi di dato più usati sono:
 number: numeri sia interi sia decimali (nel caso di numeri decimali si usa il punto al posto della virgola)
 string: sequenza di lettere che vanno a formare parole e frasi
 boolean: che come valore può essere vero o falso 
@@ -56,9 +56,9 @@ console.log("nuovo name: " + name);
 */
 
 let num = 4;
-let diff = num - x;
+let differenza = num - x;
 console.log("sottrazione:");
-console.log(num + " - x = " + diff);
+console.log(num + " - x = " + differenza);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
